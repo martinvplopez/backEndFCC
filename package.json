@@ -2,11 +2,16 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Martín van Puffelen López",
 	"description": "FCC´s Backend and Microservices Project",
-	"keywords": [ "freecodecamp", "Back-end", "Node-js" ],
+	"keywords": [
+		"freecodecamp",
+		"Back-end",
+		"Node-js"
+	],
 	"license": "myself",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
