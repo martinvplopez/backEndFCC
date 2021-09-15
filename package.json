@@ -4,6 +4,7 @@
 	"description": "FCC´s Backend and Microservices Project",
 	"keywords": [ "freecodecamp", "Back-end", "Node-js" ],
 	"license": "myself",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
